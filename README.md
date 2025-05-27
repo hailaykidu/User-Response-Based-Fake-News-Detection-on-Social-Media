@@ -1,12 +1,12 @@
 # User Response-Based Fake News Detection on Social Media
 
-This repository contains the codebase and experimental setup for our work on **fake news detection** using **user reactions on social media** posts. This approach is based on our paper titled _"User Response-Based Fake News Detection on Social Media"_, which investigates how users’ textual comments and emotional reactions can be leveraged to identify misinformation.
+This repository contains the codebase and experimental setup for our work on **fake news detection** using **user reactions on social media** posts. This approach is based on our paper titled  "User Response-Based Fake News Detection on Social Media", which investigates how users’ textual comments and emotional reactions can be leveraged to identify misinformation.
 
 ---
 
 ##  Abstract
 
-Social media has become a dominant platform for mass communication and information sharing. Its interactive features—such as likes, shares, and comments—allow rapid propagation of content, but also expose users to unverified and potentially misleading information due to the lack of editorial oversight. In this work, we propose a method to detect fake news by analyzing user responses to social media posts. We extract textual features from user comments using Bag-of-Words and TF-IDF techniques, and incorporate categorical emotion responses as visual features. Our experimental results, based on models such as Random Forest, Logistic Regression, and XGBoost, show a precision of **0.97**, a recall of **0.99**, and an F1-score of **0.98**, significantly outperforming baseline methods.
+Social media has become a dominant platform for mass communication and information sharing. Its interactive features—such as likes, shares, and comments allow rapid propagation of content, but also expose users to unverified and potentially misleading information due to the lack of editorial oversight. In this work, we propose a method to detect fake news by analyzing user responses to social media posts. We extract textual features from user comments using Bag-of-Words and TF-IDF techniques, and incorporate categorical emotion responses as visual features. Our experimental results, based on models such as Random Forest, Logistic Regression, and XGBoost, show a precision of **0.97**, a recall of **0.99**, and an F1-score of **0.98**, significantly outperforming baseline methods.
 
 ---
 
