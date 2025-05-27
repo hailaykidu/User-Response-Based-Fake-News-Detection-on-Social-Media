@@ -70,11 +70,25 @@ We use the **Fake-EmoReact 2021** dataset, released as part of the **SocialNLP 2
 - [COVIDFake-EmoReact 2021 – Shared Task](https://sites.google.com/view/covidfake-emoreact-2021/)
 
 ---
+##  Paper & Citation
+This project is based on the paper presented at the Fourth International Conference on Applied Informatics (ICAI 2021), published by Springer.
 
-##  Repository includes  Structure
-├── data/ # Dataset files accecable from [COVIDFake-EmoReact 2021 – Shared Task](https://sites.google.com/view/covidfake-emoreact-2021/)
-├── src/ # Source code for model training and preprocessing
-├── results/
-├── main.py 
-├── requirements.txt 
-├── README.md 
+ Title: User Response-Based Fake News Detection on Social Media
+ Published in: Applied Informatics: ICAI 2021 Proceedings
+ Conference: Buenos Aires, Argentina, October 28–30, 2021
+ Springer Link: https://link.springer.com/chapter/10.1007/978-3-030-89654-6_13
+
+
+
+If you use this work in your research, please cite it as:
+
+@inproceedings{kidu2021user,
+  title={User Response-Based Fake News Detection on Social Media},
+  author={Kidu, Hailay and Misgna, Haile and Li, Tong and Yang, Zhen},
+  booktitle={Applied Informatics: Fourth International Conference, ICAI 2021, Buenos Aires, Argentina, October 28--30, 2021, Proceedings 4},
+  pages={173--187},
+  year={2021},
+  organization={Springer}
+}
+
+
