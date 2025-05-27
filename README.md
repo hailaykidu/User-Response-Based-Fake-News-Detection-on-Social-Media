@@ -71,5 +71,10 @@ We use the **Fake-EmoReact 2021** dataset, released as part of the **SocialNLP 2
 
 ---
 
-##  Repository Structure
-
+##  Repository includes  Structure
+├── data/ # Dataset files accecable from [COVIDFake-EmoReact 2021 – Shared Task](https://sites.google.com/view/covidfake-emoreact-2021/)
+├── src/ # Source code for model training and preprocessing
+├── results/
+├── main.py 
+├── requirements.txt 
+├── README.md 
