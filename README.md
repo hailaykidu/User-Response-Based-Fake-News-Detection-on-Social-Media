@@ -78,10 +78,12 @@ This project is based on the paper presented at the Fourth International Confere
  Conference: Buenos Aires, Argentina, October 28–30, 2021
  Springer Link: https://link.springer.com/chapter/10.1007/978-3-030-89654-6_13
 
+If you use this work, please cite our paper:
 
+**Published in:** *Applied Informatics: ICAI 2021 (Springer)*  
+📖 [Springer Link to the paper](https://link.springer.com/chapter/10.1007/978-3-030-89654-6_13)
 
-If you use this work in your research, please cite it as:
-
+```bibtex
 @inproceedings{kidu2021user,
   title={User Response-Based Fake News Detection on Social Media},
   author={Kidu, Hailay and Misgna, Haile and Li, Tong and Yang, Zhen},
